@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gustavo Maciel</h1>
-<h3 align="center">A student passionate about data science</h3>
+<h1 align="center">Olá! Seja Bem Vindo ao meu perfil 👋 </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
