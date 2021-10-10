@@ -13,7 +13,7 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/gustavo-maciel-226937205/](https://www.linkedin.com/in/gustavo-maciel-226937205/)
 
-- ⚡ Fatos sobre mim **Comecei a programar em 2020 e descobri que a área de tecnologia é o melhor meio de me desafiar todos os dias.**
+- ⚡ Uma curiosidade sobre mim é que **Comecei a programar em 2020 e descobri que a área de tecnologia é o melhor meio de me desafiar todos os dias.**
 
 
 <h3 align="left">Languages and Tools:</h3>
