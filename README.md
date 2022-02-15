@@ -1,5 +1,5 @@
 Default
-<img align="top" width="640" height="360" src="https://wallpapercave.com/wp/jHo76kp.jpg">
+<img align="top" align="center" width="640" height="360" src="https://wallpapercave.com/wp/jHo76kp.jpg">
 
 <hr>
 <h1 align="center">Olá! Seja Bem Vindo👋 </h1>
