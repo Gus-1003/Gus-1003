@@ -25,10 +25,11 @@
    - Kotlin - Iniciando;
 
 ### Meus interesses de Pesquisa:
-   - **Ciência de dados**; 
-   - **Inteligência artificial**; 
+   - **Ciência de dados;**
+   - **Inteligência artificial;** 
    - **Aprendizagem de Maquina;**
    - **Visão Computacional;**
+   - **Microcontroladores - Dispositivos Embarcados;**
    - **Astronomia;**
  
 <hr>
