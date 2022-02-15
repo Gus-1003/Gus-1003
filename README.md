@@ -1,9 +1,11 @@
-<img align="center" width="740" height="357" src="https://acrediteounao.com/wp-content/uploads/2016/04/universo-lugar-frio-740x357.jpg">
+<div align="center">
+  <img src="https://acrediteounao.com/wp-content/uploads/2016/04/universo-lugar-frio-740x357.jpg" width="740" height="357" >
+</div>
 
 <hr>
 
 <h1 align="center">Olá! Seja Bem Vindo👋 </h1>
-<h2 align="center">Meu nome é Gustavo Maciel e estou muito contente por você ter chegado a esse perfil! :) </h2>
+<h2 align="center">Meu nome é Gustavo Maciel e estou muito contente por você ter chegado a esse perfil!</h2>
   
 <hr>
 
