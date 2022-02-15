@@ -1,20 +1,43 @@
-<img align="center" width="640" height="360" src="https://wallpapercave.com/wp/jHo76kp.jpg">
+<img align="center" width="740" height="357" src="https://acrediteounao.com/wp-content/uploads/2016/04/universo-lugar-frio-740x357.jpg">
 
 <hr>
+
 <h1 align="center">Olá! Seja Bem Vindo👋 </h1>
 <h2 align="center">Meu nome é Gustavo Maciel e estou muito contente por você ter chegado a esse perfil! :) </h2>
+  
 <hr>
-<p align="left">
 
-- 🌱 Atualmente estou adiquirindo conhecimento para trabalhar com processamento de imagem;
-- 👯 Disposto a colaborar com **projetos de ciência de dados, Inteligência artificial e Aprendizagem de Maquina;**
-- 💬 Gosto de conversar sobre **Algoritmo, Astronomia e Matemática.;**
+<hr>
+
+## Sobre mim:
+
+### Carreira Acadêmica:
+   - Técnico em Agroindustria;
+   - Graduando em Análise e Desenvolvimento de Sistemas - 5º Período;
+
+### Linguagens que utilizo:
+   - Python;
+   - C++;
+   - Java;
+   - R - Iniciando;
+   - Kotlin - Iniciando;
+
+### Meus interesses de Pesquisa:
+   - **Ciência de dados**; 
+   - **Inteligência artificial**; 
+   - **Aprendizagem de Maquina;**
+   - **Visão Computacional;**
+   - **Astronomia;**
  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gus-1003/)](https://github.com/Gus-1003/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/)](https://www.linkedin.com/in/gustavo-maciel-226937205/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*gm88605363@gmail.com)](mailto:*gm88605363@gmail.com)
+<hr>
+
+## Contatos:
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gus-1003/)](https://github.com/Gus-1003/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/)](https://www.linkedin.com/in/gustavo-maciel-226937205/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*gm88605363@gmail.com)](mailto:*gm88605363@gmail.com)
 
 <hr>
+
 <div>
  <a href="https://github.com/Gus-1003/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-1003&show_icons=true&theme=dark" style"max-width: 100%;" />
