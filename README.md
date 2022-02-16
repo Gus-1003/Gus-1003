@@ -14,8 +14,11 @@
 ## Sobre mim:
 
 ### Carreira Acadêmica:
-   - Técnico em Agroindustria;
+   - Técnico em Agroindústria;
    - Graduando em Análise e Desenvolvimento de Sistemas - 5º Período;
+      - Monitor de Algoritmo;
+      - Monitor de Raciocínio Lógico
+      - Bolsista de Iniciação Cientifica
 
 ### Linguagens que utilizo:
    - Python;
