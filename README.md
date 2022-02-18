@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Olá! Seja Bem Vindo ao meu Universo👋 </h1>
 <h2 align="center">Meu nome é Gustavo e estou muito contente por você ter chegado a esse perfil!</h2>
+<h1 align="center">Seja Bem Vindo ao meu Universo👋 </h1>
   
 <hr>
 
