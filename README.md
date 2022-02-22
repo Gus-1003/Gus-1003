@@ -33,7 +33,7 @@
    - **Aprendizagem de Maquina;**
    - **Visão Computacional;**
    - **Microcontroladores - Dispositivos Embarcados;**
-   - **Astronomia - Fisica - Matematica;**
+   - **Astronomia - Física - Matemática;**
  
 <hr>
 
