@@ -35,6 +35,8 @@
    - **Microcontroladores - Dispositivos Embarcados;**
    - **Astronomia - Física - Matemática;**
  
+ ### Curriculo:
+   - [Link_Curriculo](https://www.canva.com/design/DAE5eFDH6zc/oge4ZWSgBERlOunf_7dxIA/view?utm_content=DAE5eFDH6zc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <hr>
 
 ## Contatos:
