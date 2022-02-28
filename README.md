@@ -46,10 +46,13 @@
 
 <hr>
 
+## Status de Atividades:
 <div>
  <a href="https://github.com/Gus-1003/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-1003&show_icons=true&theme=dark" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-1003&layout=compact&theme=dark" style"max-width: 100%;" />
- </a>
+  </a>
 </div>
+
+![Gustavo Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gus-1003&theme=react-dark)
 
