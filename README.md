@@ -5,12 +5,6 @@
   
 <hr>
 
-<div align="center">
-  <img src="https://acrediteounao.com/wp-content/uploads/2016/04/universo-lugar-frio-740x357.jpg" width="740" height="357" >
-</div>
-
-<hr>
-
 ## Sobre mim:
 
 ### Carreira Acadêmica:
