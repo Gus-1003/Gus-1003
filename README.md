@@ -2,6 +2,7 @@
 
 <h2 align="center">Meu nome é Gustavo e estou muito contente por você ter chegado a esse perfil!</h2>
 <h1 align="center">Seja Bem Vindo ao meu Universo👋 </h1>
+<h3 align="center">i'll show you how  great i am</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gus-1003" alt="Gus-1003" /> </p>
   
 <hr>
