@@ -38,7 +38,6 @@
 <hr>
 
 ### Contatos:
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gus-1003/)](https://github.com/Gus-1003/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/)](https://www.linkedin.com/in/gustavo-maciel-226937205/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*gm88605363@gmail.com)](mailto:*gm88605363@gmail.com)
 
