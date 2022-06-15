@@ -10,32 +10,34 @@
 ## About me:
 
 ### Academic career:
-    - Technician in Agroindustry;
-    - Graduating in Systems Analysis and Development - 5th Period;
-       - Ex - Algorithm Monitor;
-       - Ex - Monitor of Logical Reasoning;
-       - Scientific Initiation Scholarship;
+* Technician in Agroindustry;
+* Graduating in Systems Analysis and Development - 5th Period;
+        
+      -> Ex - Algorithm Monitor;
+      -> Ex - Monitor of Logical Reasoning;
+      -> Scientific Initiation Scholarship;
 
 ### Languages:
-    - Python;
-    - C++;
-    - Java;
-    - R - Starting;
-    - Kotlin - Starting;
+
+   - [Python](https://github.com/Gus-1003/Python_Experimentos)
+   - [C++](https://github.com/Gus-1003/C_Experimentos)
+   - [Java](https://github.com/Gus-1003/Java_Experimentos)
+   - [R - Starting](https://github.com/Gus-1003/R_Experimentos)
+   - [Kotlin - Starting](https://github.com/Gus-1003/Kotlin_Experimentos)
 
 ### My Research Interests:
-    - **Data Science;**
-    - **Artificial intelligence;**
-    - **Machine Learning;**
-    - **Computer vision;**
-    - **Microcontrollers - Embedded Devices;**
-    - **Astronomy - Physics - Mathematics;**
+   - [Data Science and Machine Learning](https://github.com/Gus-1003/DataScience)
+   - [Computer Vision](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
+   - [Data Structure](https://github.com/Gus-1003/EstruturaDeDados_2022)
+   - [Data Engineering](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
+   - [Microcontrollers - Embedded Devices](https://github.com/Gus-1003/Microcontroladores_Arduino)
+   - [Astronomy - Physics - Mathematics](https://github.com/Gus-1003/Astronomia_Estudos_Dados)
  
- ### Curriculo:
+### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/106wr240rU3fXxuJe5Uk1yNiXqq6uwk3z/view?usp=sharing)
 <hr>
 
-## Contatos:
+### Contatos:
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gus-1003/)](https://github.com/Gus-1003/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/)](https://www.linkedin.com/in/gustavo-maciel-226937205/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*gm88605363@gmail.com)](mailto:*gm88605363@gmail.com)
