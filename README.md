@@ -1,35 +1,35 @@
 
 
-<h2 align="center">Meu nome é Gustavo e estou muito contente por você ter chegado a esse perfil!</h2>
-<h1 align="center">Seja Bem Vindo ao meu Universo👋 </h1>
+<h2 align="center">My name is Gustavo and I am very happy that you have arrived at this profile!</h2>
+<h1 align="center"> Welcome to my Universe👋 </h1>
 <h3 align="center">i'll show you how  great i am</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gus-1003" alt="Gus-1003" /> </p>
   
 <hr>
 
-## Sobre mim:
+## About me:
 
-### Carreira Acadêmica:
-   - Técnico em Agroindústria;
-   - Graduando em Análise e Desenvolvimento de Sistemas - 5º Período;
-      - Ex - Monitor de Algoritmo;
-      - Ex - Monitor de Raciocínio Lógico;
-      - Bolsista de Iniciação Cientifica;
+### Academic career:
+    - Technician in Agroindustry;
+    - Graduating in Systems Analysis and Development - 5th Period;
+       - Ex - Algorithm Monitor;
+       - Ex - Monitor of Logical Reasoning;
+       - Scientific Initiation Scholarship;
 
-### Linguagens que utilizo:
-   - Python;
-   - C++;
-   - Java;
-   - R - Iniciando;
-   - Kotlin - Iniciando;
+### Languages:
+    - Python;
+    - C++;
+    - Java;
+    - R - Starting;
+    - Kotlin - Starting;
 
-### Meus interesses de Pesquisa:
-   - **Ciência de dados;**
-   - **Inteligência artificial;** 
-   - **Aprendizagem de Maquina;**
-   - **Visão Computacional;**
-   - **Microcontroladores - Dispositivos Embarcados;**
-   - **Astronomia - Física - Matemática;**
+### My Research Interests:
+    - **Data Science;**
+    - **Artificial intelligence;**
+    - **Machine Learning;**
+    - **Computer vision;**
+    - **Microcontrollers - Embedded Devices;**
+    - **Astronomy - Physics - Mathematics;**
  
  ### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/106wr240rU3fXxuJe5Uk1yNiXqq6uwk3z/view?usp=sharing)
