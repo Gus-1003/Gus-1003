@@ -48,26 +48,13 @@
 <hr>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=github_dark" alt="Gus-1003" align = "center"/></p>
-</details>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gus-1003&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Gus-1003" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gus-1003&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Gus-1003" align = "center"/></p>
-</details>
-<details>
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gus-1003&theme=react-dark" alt="Gus-1003" /></p>
-</details>
-<details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Gustavo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gus-1003&theme=react-dark" /></a></p>
-</details>
-<details>   
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/Gus-1003"><img src="https://github-profile-trophy.vercel.app/?username=Gus-1003&margin-w=5&theme=github_dark" alt="Gus-1003" /></a> </p>
-</details>
-<br>
+
+  <b>🔎 Github Profile Details</b>
+      <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=github_dark" alt="Gus-1003" align = "center"/></p>
+
+
+  <b>⚡ Github Stats</b>
+      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gus-1003&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Gus-1003" align = "center"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gus-1003&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Gus-1003" align = "center"/></p>
+
 
