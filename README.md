@@ -38,7 +38,7 @@
    - [Mobile Development](https://github.com/Gus-1003/Projetos_Android)
 
 ### Curriculo:
-   - [Link_Curriculo](https://drive.google.com/file/d/106wr240rU3fXxuJe5Uk1yNiXqq6uwk3z/view?usp=sharing)
+   - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
 <hr>
 
 ### Contatos:
