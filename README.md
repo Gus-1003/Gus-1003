@@ -10,12 +10,16 @@
 ## About me:
 
 ### Academic career:
-* Technician in Agroindustry;
-* Graduating in Systems Analysis and Development - 5th Period;
+* 🌾 Technician in Agroindustry;
+* 💻 Graduating in Systems Analysis and Development - 6th Period;
         
-      -> Ex - Algorithm Monitor;
-      -> Ex - Monitor of Logical Reasoning;
-      -> Scientific Initiation Scholarship;
+      -> 📗 Ex - Algorithm Monitor;
+      -> 📘 Ex - Monitor of Logical Reasoning;
+      
+      -> 🔎 Former scientific initiation fellow
+      
+      -> 🌐 Data Analyst
+      -> 🌌 Researcher focusing on data, mathematical models and natural phenomena
 
 ### Languages:
 
