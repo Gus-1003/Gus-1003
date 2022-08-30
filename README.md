@@ -20,6 +20,8 @@
       
       -> 🌐 Data Analyst
       -> 🌌 Researcher focusing on data, mathematical models and natural phenomena
+      
+* 🔬 Researcher and Data Analyst
 
 ### Languages:
 
