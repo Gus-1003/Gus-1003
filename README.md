@@ -44,6 +44,12 @@
    - [Web Development](https://github.com/Gus-1003/Projetos_WEB)
    - [Mobile Development](https://github.com/Gus-1003/Projetos_Android)
 
+### Current Projects:
+   - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
+   - [ENEM 2021 - Data analysis - R](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
+   - [web scraping - Python](https://github.com/Gus-1003/DataScience/tree/main/Web_Scraping/Beautiful_soup)
+   - [Hello world - Android - Kotlin](https://github.com/Gus-1003/Projeto_Hello-World_Android)
+
 ### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
 <hr>
