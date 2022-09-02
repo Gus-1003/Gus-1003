@@ -42,7 +42,7 @@
 ### Skills:
    - [Microcontrollers - Embedded Devices](https://github.com/Gus-1003/Microcontroladores_Arduino)
    - [Web Development](https://github.com/Gus-1003/Projetos_WEB)
-   - [Mobile Development](https://github.com/Gus-1003/Projetos_Android)
+   - [Mobile Development](https://github.com/Gus-1003?tab=repositories&q=&type=&language=kotlin&sort=)
 
 ### Current Projects:
    - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
