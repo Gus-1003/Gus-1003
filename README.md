@@ -36,8 +36,6 @@
    - [Computer Vision](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
    - [Data Structure](https://github.com/Gus-1003/EstruturaDeDados_2022)
    - [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
-   - [Astronomy](https://github.com/Gus-1003/Astronomia_Estudos_Dados)
-   - [Calculus](https://github.com/Gus-1003/Calculo_Cod_Josenalde)
 
 ### Skills:
    - [Microcontrollers - Embedded Devices](https://github.com/Gus-1003/Microcontroladores_Arduino)
