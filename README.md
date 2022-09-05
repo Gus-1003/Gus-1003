@@ -6,8 +6,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gus-1003" alt="Gus-1003" /> </p>
   
 <hr>
+<h2> Connections: </h2>
 
-## About me:
+  [![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=flatsquare&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gustavogm21/)](https://www.instagram.com/gustavogm21)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/)](https://www.linkedin.com/in/gustavo-maciel-226937205/)
+  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Gus-1003)](https://medium.com/@Gus-1003)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*gm88605363@gmail.com)](mailto:*gm88605363@gmail.com)
+  [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/gustavomaciel0310/)](https://www.kaggle.com/gustavomaciel0310)
+  
+<hr>
+<h2> About me: </h2>
 
 ### Academic career:
 * 🌾 Technician in Agroindustry;
@@ -56,15 +64,6 @@
 
 ### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
-<hr>
-
-### Contatos:
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/)](https://www.linkedin.com/in/gustavo-maciel-226937205/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*gm88605363@gmail.com)](mailto:*gm88605363@gmail.com)
-  [![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gustavogm21/)](https://www.instagram.com/gustavogm21)
-  [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/gustavomaciel0310/)](https://www.kaggle.com/gustavomaciel0310)
-  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Gus-1003)](https://medium.com/@Gus-1003)
-
 <hr>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
