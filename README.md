@@ -2,6 +2,7 @@
 
 <h2 align="center">My name is Gustavo and I am very happy that you have arrived at this profile!</h2>
 <h1 align="center"> Welcome to my Universe👋 </h1>
+
 <h3 align="center">i'll show you how  great i am</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gus-1003" alt="Gus-1003" /> </p>
   
@@ -31,6 +32,8 @@
       
 * 🔬 Researcher and Data Analyst
 
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" height="260"/>
+
 ### Languages:
 
    - [Python](https://github.com/Gus-1003/Python_Experimentos)
@@ -45,6 +48,8 @@
    - [Data Structure](https://github.com/Gus-1003/EstruturaDeDados_2022)
    - [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
 
+<img src="https://media4.giphy.com/media/40DRc0W00UbgQ/giphy.gif" align="right" width="430" height="218"/>
+
 ### Skills:
    - [Microcontrollers - Embedded Devices](https://github.com/Gus-1003/Microcontroladores_Arduino)
    - [Web Development](https://github.com/Gus-1003/Projetos_WEB)
@@ -56,6 +61,8 @@
    - [web scraping - Python](https://github.com/Gus-1003/DataScience/tree/main/Web_Scraping/Beautiful_soup)
    - [Hello world - Android - Kotlin](https://github.com/Gus-1003/Projeto_Hello-World_Android)
 
+<img src="https://media.giphy.com/media/xUOwGfovSejz0WVAm4/giphy.gif" align="right"  width="430" height="220"/>
+
 ### Processing Data in:
    - [Business](https://github.com/Gus-1003/Business-Intelligence)
    - [Meteorology](https://github.com/Gus-1003/Meteorologia_Estudos_Dados)
@@ -64,8 +71,10 @@
 
 ### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
-<hr>
 
+
+
+<hr>
 <h2>ℹ️ &nbsp;Github Info</h2>
 
   <b>🔎 Github Profile Details</b>
