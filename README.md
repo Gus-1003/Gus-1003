@@ -34,7 +34,7 @@
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" height="260"/>
 
-### Languages:
+### Languages practiced:
 
    - [Python](https://github.com/Gus-1003/Python_Experimentos)
    - [C++](https://github.com/Gus-1003/C_Experimentos)
@@ -43,9 +43,10 @@
    - [Kotlin - Starting](https://github.com/Gus-1003/Kotlin_Experimentos)
 
 ### My Research Interests:
-   - [Data Science and Machine Learning](https://github.com/Gus-1003/DataScience)
-   - [Computer Vision](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
-   - [Data Structure](https://github.com/Gus-1003/EstruturaDeDados_2022)
+   - [Data Science and Machine Learning - Python](https://github.com/Gus-1003/DataScience)
+   - [Computer Vision - Objective-C / Python](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
+   - [Calculus - R](https://github.com/Gus-1003/Calculo)
+   - [Data Structure - JS](https://github.com/Gus-1003/EstruturaDeDados_2022)
    - [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
 
 <img src="https://media4.giphy.com/media/40DRc0W00UbgQ/giphy.gif" align="right" width="430" height="218"/>
@@ -58,8 +59,8 @@
 ### Current Projects:
    - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
    - [ENEM 2021 - Data analysis - R](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
-   - [web scraping - Python](https://github.com/Gus-1003/DataScience/tree/main/Web_Scraping/Beautiful_soup)
-   - [Hello world - Android - Kotlin](https://github.com/Gus-1003/Projeto_Hello-World_Android)
+   - [Web Scraping - Python](https://github.com/Gus-1003/DataScience/tree/main/Web_Scraping/Beautiful_soup)
+   - [Hello World - Android - Kotlin](https://github.com/Gus-1003/Projeto_Hello-World_Android)
 
 <img src="https://media.giphy.com/media/xUOwGfovSejz0WVAm4/giphy.gif" align="right"  width="430" height="220"/>
 
