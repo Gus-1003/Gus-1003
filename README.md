@@ -85,8 +85,8 @@
   <b>⚡ Github Stats</b>
   <p align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gus1003&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&&theme=github_dark" alt="Gus-1003" align = "center"/>     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Gus-1003" align = "center"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gus-1003&show_icons=true&theme=github_dark&layout=compact&hide_border=true)](https://github.com/Gus-1003)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=8&theme=github_dark)](https://github.com/Gus-1003)
 
   </p>
 
