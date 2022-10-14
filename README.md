@@ -58,22 +58,17 @@
 
 ### Current Projects:
    - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
-   - [ENEM 2021 - Data analysis - R](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
-   - [Web Scraping - Python](https://github.com/Gus-1003/DataScience/tree/main/Web_Scraping/Beautiful_soup)
-   - [Hello World - Android - Kotlin](https://github.com/Gus-1003/Projeto_Hello-World_Android)
+   - [ENEM 2021 - Data analysis - Python](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
 
 <img src="https://media.giphy.com/media/xUOwGfovSejz0WVAm4/giphy.gif" align="right"  width="430" height="220"/>
 
 ### Processing Data in:
-   - [Business](https://github.com/Gus-1003/Business-Intelligence)
    - [Meteorology](https://github.com/Gus-1003/Meteorologia_Estudos_Dados)
    - [Geostatistics](https://github.com/Gus-1003/Geoestatistica_Estudos_Dados)
    - [Astronomy](https://github.com/Gus-1003/Astronomia_Estudos_Dados)
 
 ### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
-
-
 
 <hr>
 <h2>ℹ️ &nbsp;Github Info</h2>
