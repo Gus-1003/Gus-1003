@@ -1,6 +1,3 @@
-
-
-<h2 align="center">My name is Gustavo and I am very happy that you have arrived at this profile!</h2>
 <h1 align="center"> Welcome to my Universe👋 </h1>
 
 <h3 align="center">i'll show you how  great i am</h3>
