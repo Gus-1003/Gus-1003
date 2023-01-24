@@ -17,17 +17,13 @@
 
 ### Academic career:
 * 🌾 Technician in Agroindustry;
-* 💻 Graduating in Systems Analysis and Development - 6th Period;
+* 💻 Graduating in Systems Analysis and Development - 7th Period;
         
-      -> 📗 Ex - Algorithm Monitor;
+      -> 📗 Ex - Algorithm Discipline Monitor;
       -> 📘 Ex - Monitor of Logical Reasoning;
+      -> 📗 Ex - Database Discipline Monitor;
       
-      -> 🔎 Former scientific initiation fellow
-      
-      -> 🌐 Data Analyst
-      -> 🌌 Researcher focusing on data, mathematical models and natural phenomena
-      
-* 🔬 Researcher and Data Analyst
+      -> 🔎 Scientific Initiation Researcher - focusing on data, mathematical models and natural phenomena;
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" height="260"/>
 
@@ -36,8 +32,6 @@
    - [Python](https://github.com/Gus-1003/Python_Experimentos)
    - [C++](https://github.com/Gus-1003/C_Experimentos)
    - [Java](https://github.com/Gus-1003/Java_Experimentos)
-   - [R - Starting](https://github.com/Gus-1003/R_Experimentos)
-   - [Kotlin - Starting](https://github.com/Gus-1003/Kotlin_Experimentos)
 
 ### My Research Interests:
    - [Data Science and Machine Learning - Python](https://github.com/Gus-1003/DataScience)
@@ -48,27 +42,12 @@
 
 <img src="https://media4.giphy.com/media/40DRc0W00UbgQ/giphy.gif" align="right" width="430" height="218"/>
 
-### Skills:
-   - [Microcontrollers - Embedded Devices](https://github.com/Gus-1003/Microcontroladores_Arduino)
-   - [Web Development](https://github.com/Gus-1003/Projetos_WEB)
-   - [Mobile Development](https://github.com/Gus-1003?tab=repositories&q=&type=&language=kotlin&sort=)
-
 ### Current Projects:
    - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
    - [ENEM 2021 - Data analysis - Python](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
 
-<img src="https://media.giphy.com/media/xUOwGfovSejz0WVAm4/giphy.gif" align="right"  width="430" height="220"/>
-
-### Processing Data in:
-   - [Meteorology](https://github.com/Gus-1003/Meteorologia_Estudos_Dados)
-   - [Geostatistics](https://github.com/Gus-1003/Geoestatistica_Estudos_Dados)
-   - [Astronomy](https://github.com/Gus-1003/Astronomia_Estudos_Dados)
-
 ### Curriculo:
    - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
-
-
-
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
