@@ -36,8 +36,6 @@
 ### My Research Interests:
    - [Data Science and Machine Learning - Python](https://github.com/Gus-1003/DataScience)
    - [Computer Vision - Objective-C / Python](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
-   - [Calculus - R](https://github.com/Gus-1003/Calculo)
-   - [Data Structure - JS](https://github.com/Gus-1003/EstruturaDeDados_2022)
    - [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
 
 <img src="https://media4.giphy.com/media/40DRc0W00UbgQ/giphy.gif" align="right" width="430" height="218"/>
