@@ -38,8 +38,6 @@
    - [Computer Vision - Objective-C / Python](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
    - [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
 
-<img src="https://media4.giphy.com/media/40DRc0W00UbgQ/giphy.gif" align="right" width="430" height="218"/>
-
 ### Current Projects:
    - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
    - [ENEM 2021 - Data analysis - Python](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
