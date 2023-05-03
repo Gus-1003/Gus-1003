@@ -46,7 +46,6 @@
    - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-
 <b>🔎 Github Profile Details</b>
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=github_dark" alt="Gus-1003" align = "center"/></p>
 
