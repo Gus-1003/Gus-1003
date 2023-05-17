@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" alt="GIF de Neurociência">
+  <img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" width="400" height="280" alt="GIF de Neurociência">
 </p>
 
 <h1 align="center"> Welcome to my Universe👋 </h1>
@@ -33,25 +33,25 @@
 
 ## About me
 
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" height="260"/>
+
 ### Academic career
 - Agroindustry Technician
 - Bachelor's degree in Systems Analysis and Development - 7th period
     - Monitor for Algorithms, Logical Reasoning, and Database disciplines
     - Scientific Initiation Researcher focusing on data, mathematical models, and natural phenomena
 
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" height="260"/>
-
 ### Languages practiced
 - [Python](https://github.com/Gus-1003/Python_Experimentos)
 - [C++](https://github.com/Gus-1003/C_Experimentos)
 - [Java](https://github.com/Gus-1003/Java_Experimentos)
 
+<img src="https://media.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif" align="right" width="380" height="380" alt="GIF">
+
 ### Research Interests
 - [Data Science and Machine Learning - Python](https://github.com/Gus-1003/DataScience)
 - [Computer Vision - Objective-C / Python](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
 - [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
-
-<img src="https://media.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif" align="right" width="380" height="380" alt="GIF">
 
 ### Current Projects:
 - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
@@ -62,6 +62,8 @@
 - [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
 
 ## Github Profile Details:
-<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=github_dark" alt="Gus-1003" align = "center"/></p>
+<p align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=github_dark" alt="Gus-1003" align = "center"/>
+</p>
 
 
