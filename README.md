@@ -15,9 +15,6 @@
   <a href="https://www.instagram.com/gustavogm21">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flatsquare&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavogm21">
   </a>
-  <a href="https://www.linkedin.com/in/gustavo-maciel-226937205/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-maciel-226937205/">
-  </a>
   <a href="https://medium.com/@Gus-1003">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Gus-1003">
   </a>
@@ -59,7 +56,9 @@
 - [ISD-invention - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/ISD-invention)
 
 ### Curriculo:
-- [Link_Curriculo](https://drive.google.com/file/d/1iJbpQI5Z6mVQiJdPwdQiiDTzZ2hPP-rR/view?usp=sharing)
+- [Lattes](http://lattes.cnpq.br/0926263583680093 )
+- [Orcid](https://orcid.org/0009-0002-9690-1614)
+- [Linkedin](https://www.linkedin.com/in/gustavo-maciel-226937205)
 
 ## Github Profile Details:
 <p align="center">
