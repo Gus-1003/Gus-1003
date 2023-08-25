@@ -33,10 +33,14 @@
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" height="260"/>
 
 ### Academic career
-- Agroindustry Technician
-- Bachelor's degree in Systems Analysis and Development - 7th period
-    - Monitor for Algorithms, Logical Reasoning, and Database disciplines
-    - Scientific Initiation Researcher focusing on data, mathematical models, and natural phenomena
+- 🌱 Technician in Agroindustry
+
+- 🎓 Graduated in Systems Analysis and Development
+  
+- 🔬 Scientific Initiation Researcher
+
+- 📚 Master's Student in Neuroengineering
+
 
 ### Languages practiced
 - [Python](https://github.com/Gus-1003/Python_Experimentos)
