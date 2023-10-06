@@ -52,7 +52,6 @@
 ### Research Interests
 - [Data Science and Machine Learning - Python](https://github.com/Gus-1003/DataScience)
 - [Computer Vision - Objective-C / Python](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
-- [Data Engineering - SQL](https://github.com/Gus-1003/Modelos_e_Scripts_SQL)
 
 ### Current Projects:
 - [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
