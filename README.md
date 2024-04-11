@@ -4,11 +4,7 @@
 </p>
 
 <h1 align="center"> Welcome to my Universe👋 </h1>
-
-<h3 align="center">i'll show you how  great i am</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gus-1003" alt="Gus-1003" /> </p>
   
-<hr>
 <h2 align="center">Connections:</h2>
 
 <p align="center">
