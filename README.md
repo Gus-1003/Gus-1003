@@ -37,22 +37,14 @@
 
 - 📚 Master's Student in Neuroengineering
 
-
-### Languages practiced
-- [Python](https://github.com/Gus-1003/Python_Experimentos)
-- [C++](https://github.com/Gus-1003/C_Experimentos)
-- [Java](https://github.com/Gus-1003/Java_Experimentos)
-
-<img src="https://media.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif" align="right" width="380" height="380" alt="GIF">
-
 ### Research Interests
 - [Data Science and Machine Learning - Python](https://github.com/Gus-1003/DataScience)
 - [Computer Vision - Objective-C / Python](https://github.com/Gus-1003/Processamento-Digital-de-Imagem)
 
 ### Current Projects:
-- [PalmaS - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/Projeto_PalmaS)
-- [ENEM 2021 - Data analysis - Python - Pandas](https://github.com/Gus-1003/ENEM_2021-Data_analysis)
-- [ISD-invention - Computer Vision - Python - OpenCV](https://github.com/Gus-1003/ISD-invention)
+- [Tracking_animals](https://github.com/Gus-1003/ISD-invention-pose)
+- [LFP_animals](https://github.com/Gus-1003/ISD-invention-LFP-Analyses)
+
 
 ### Curriculo:
 - [Lattes](http://lattes.cnpq.br/0926263583680093 )
