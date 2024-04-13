@@ -1,9 +1,10 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" width="400" height="280" alt="GIF de Neurociência">
+  <img src="https://github.com/Gus-1003/Gus-1003/blob/main/vagabond_edit.png" width="1800" height="560">
 </p>
 
 <h1 align="center"> Welcome to my Universe👋 </h1>
+<h3 align="center"> Always growing </h3>
   
 <h2 align="center">Connections:</h2>
 
