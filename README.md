@@ -73,15 +73,28 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=default" alt="Gus-1003" align="center"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=default">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus-1003&theme=default" alt="Gus-1003" align="center"/>
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="350em" src="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=default&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Gustavo Maciel's GitHub Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=github_dark&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=default&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+      <img height="350em" src="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=default&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Gustavo Maciel's GitHub Stats" />
+    </picture>
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=github_dark&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
+      <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
+    </picture>
   </a>
 </p>
 
