@@ -80,23 +80,25 @@
   </picture>
 </p>
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" height="300em" srcset="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=github_dark&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-      <source media="(prefers-color-scheme: light)" height="300em" srcset="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=default&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=github_dark&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=default&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
       <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Gus-1003&theme=default&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Gustavo Maciel's GitHub Stats" />
     </picture>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" height="350em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=github_dark&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
-      <source media="(prefers-color-scheme: light)" height="350em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
-      <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=github_dark&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
     </picture>
   </a>
-</p>
+
+</div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
