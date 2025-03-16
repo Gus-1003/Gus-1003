@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My Universe! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5F5F5&center=true&width=600&lines=Neuroengineering+Researcher+🔬;Behavioral+Data+Analysis+📊;Computer+Vision+%26+Image+Processing+🖥️;Aspiring+Ph.D.+Candidate+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5F5F5&center=true&width=600&lines=Neuroengineering+Researcher+🔬;Behavioral+Data+Analysis+📊;Computer+Vision+%26+Image+Processing+🖥️;Data+Science+💻" />
 </p>
 
 ---
