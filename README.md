@@ -94,7 +94,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=github_dark&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
+      <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-1003&theme=default&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
     </picture>
   </a>
 
