@@ -23,10 +23,10 @@
 ## About me
 
 ### 🎓 Academic Background  
-- 🏭 **Technician in Agroindustry** – Early technical training providing a foundation in industrial processes.  
-- 💻 **Graduated in Systems Analysis and Development** – Specialized in data analysis, software development, and computational problem-solving.  
+- 🏭 **Technician in Agroindustry by [@**UFRN**](https://www.ufrn.br/en)** – Early technical training providing a foundation in industrial processes.  
+- 💻 **Graduated in Systems Analysis and Development by [@**UFRN**](https://www.ufrn.br/en)** – Specialized in data analysis, software development, and computational problem-solving.  
 - 🔬 **Scientific Initiation Researcher** – Early exposure to academic research, developing analytical and technical skills.  
-- 🧠 **Master’s Student in Neuroengineering** – Focusing on behavioral pattern analysis and image processing techniques for exploratory movement studies.  
+- 🧠 **Master’s Student in Neuroengineering by [@**ISD**](https://institutosantosdumont.org.br/en/)** – Focusing on behavioral pattern analysis and image processing techniques for exploratory movement studies.  
 
 ### 🔍 Research & Interests  
 - 📊 **Behavioral Data Analysis** – Investigating movement patterns in **Wistar rats** during object recognition tasks in open-field environments.  
@@ -70,7 +70,11 @@
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 </div>
 
-## 📊 GitHub Stats  
+<br/>
+<br/>
+
+<details>
+  <summary><strong>📊 GitHub Stats<strong/></summary>
 
 <p align="center">
   <picture>
@@ -101,6 +105,8 @@
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
 
 
 
