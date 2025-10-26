@@ -23,16 +23,13 @@
 ## About me
 
 ### 🎓 Academic Background  
-- 🏭 **Technician in Agroindustry by [@**UFRN**](https://www.ufrn.br/en)** – Early technical training providing a foundation in industrial processes.  
 - 💻 **Graduated in Systems Analysis and Development by [@**UFRN**](https://www.ufrn.br/en)** – Specialized in data analysis, software development, and computational problem-solving.  
-- 🔬 **Scientific Initiation Researcher** – Early exposure to academic research, developing analytical and technical skills.  
 - 🧠 **Master in Neuroengineering by [@**ISD**](https://institutosantosdumont.org.br/en/)** – Focusing on behavioral pattern analysis and image processing techniques for exploratory movement studies.
 - 🧠 **PhD student in Psychobiology by [@**UFRN**](https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?lc=en_US&id=367)** – Researching the influence of exercise on cognitive processes such as memory formation.
 
 ### 🔍 Research & Interests  
-- 📊 **Behavioral Data Analysis** – Investigating movement patterns in **Wistar rats** during object recognition tasks in open-field environments.  
+- 📊 **Cognition in animal models** – Investigating movement patterns, trajectory, and behavior through tracking of rats.
 - 🖥 **Computer Vision & Image Processing** – Applying **time-series analysis** and segmentation techniques for behavioral tracking.  
-- 📈 **Trajectory Visualization** – Working with libraries like `tc.colorline` to represent movement speed with color-mapped trajectories.  
 - 📍 **Geometric Data Processing** – Analyzing and correcting spatial data for area segmentation in experimental setups.  
 
 ### 🎯 Goals & Aspirations  
