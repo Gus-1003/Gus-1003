@@ -39,40 +39,6 @@
 - 📖 **Improving Research & Technical Skills** – Strengthening **programming, data analysis, and English proficiency**.  
 - 🚀 **Bridging Engineering & Neuroscience** – Leveraging computational tools to enhance **behavioral neuroscience research**.  
 
-### 👨‍💻 Languages
-
-<div align="left">
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
-</div>
-
-### 📚 Libraries
-<div align="left">
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/numpy.svg" alt="numpy" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
-</div>
-
-<br/>
-<br/>
-
 <details>
   <summary><strong>📊 GitHub Stats<strong/></summary>
 
@@ -103,8 +69,6 @@
   </a>
 
 </div>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
